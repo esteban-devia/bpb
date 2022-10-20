@@ -21,10 +21,9 @@
             </div>
         </div>
         <div class="social">
-            <a href="https://wa.me/+15618492600" target="_blank" rel="noopener noreferrer"><img src="assets/wp-logo.png" alt=""></a>
             <a href="https://www.instagram.com/bpb_training" target="_blank" rel="noopener noreferrer"><img src="assets/ig-logo.png" alt=""></a>
             <a href="fb://profile/100081820278462" target="_blank" rel="noopener noreferrer"><img src="assets/fb-logo.png" alt=""></a>
-            <a href="" target="_blank" rel="noopener noreferrer"><img src="assets/tk-logo.png" alt=""></a>
+            <a href="https://twitter.com/BPB_Training" target="_blank" rel="noopener noreferrer"><img src="assets/tw-logo.png" alt=""></a>
         </div>
         <div class="slider-main">
             <div class="slider-group">
