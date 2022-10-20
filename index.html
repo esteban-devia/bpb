@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="top">
-        <img src="assets/bg-top.jpg" alt="">
+        <img src="assets/bg-top.jpeg" alt="">
     </div>
     <div class="bottom">
         <div class="middle">
@@ -21,58 +21,85 @@
             </div>
         </div>
         <div class="social">
-            <a href="#" target="_blank" rel="noopener noreferrer"><img src="assets/wp-logo.png" alt=""></a>
-            <a href="#" target="_blank" rel="noopener noreferrer"><img src="assets/ig-logo.png" alt=""></a>
-            <a href="#" target="_blank" rel="noopener noreferrer"><img src="assets/fb-logo.png" alt=""></a>
-            <a href="#" target="_blank" rel="noopener noreferrer"><img src="assets/tk-logo.png" alt=""></a>
+            <a href="https://wa.me/+15618492600" target="_blank" rel="noopener noreferrer"><img src="assets/wp-logo.png" alt=""></a>
+            <a href="https://www.instagram.com/bpb_training" target="_blank" rel="noopener noreferrer"><img src="assets/ig-logo.png" alt=""></a>
+            <a href="fb://profile/100081820278462" target="_blank" rel="noopener noreferrer"><img src="assets/fb-logo.png" alt=""></a>
+            <a href="" target="_blank" rel="noopener noreferrer"><img src="assets/tk-logo.png" alt=""></a>
         </div>
         <div class="slider-main">
             <div class="slider-group">
                 <div class="slider-single">
                     <div class="card">
                         <div class="card-img">
-                            <img src="assets/player1.jpg" alt="">
+                            <img src="assets/Brad-Pennington.jpg" alt="">
                         </div>
                         <h2>Brad Pennington</h2>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure fugit tenetur sit impedit quasi minima rem, dolores asperiores</p>
+                    </div>
+                </div>
+                <div class="slider-single">
+                    <div class="card">
+                        <div class="card-img">
+                            <img src="assets/Tal-Erel.jpg" alt="">
+                        </div>
+                        <h2>Tal Erel</h2>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure fugit tenetur sit impedit quasi minima rem, dolores asperiores, laborum quod nihil dolorem atque maiores quo at animi! dolores asperiores, laborum quod nihil dolorem atque maiores quo at animi</p>
+                    </div>
+                </div>
+                <div class="slider-single">
+                    <div class="card">
+                        <div class="card-img">
+                            <img src="assets/Brian-Mayer.jpg" alt="">
+                        </div>
+                        <h2>Brian Mayer</h2>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure fugit tenetur sit impedit quasi minima rem, dolores asperiores, laborum quod nihil dolorem atque maiores quo at animi!</p>
                     </div>
                 </div>
                 <div class="slider-single">
                     <div class="card">
                         <div class="card-img">
-                            <img src="assets/player2.jpg" alt="">
+                            <img src="assets/Chris-Farrell.jpg" alt="">
                         </div>
-                        <h2>Ed Yacopin</h2>
+                        <h2>Chris Farrell</h2>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure fugit tenetur sit impedit quasi minima rem, dolores asperiores, laborum quod nihil dolorem atque maiores quo at animi!</p>
                     </div>
                 </div>
                 <div class="slider-single">
                     <div class="card">
                         <div class="card-img">
-                            <img src="assets/player3.jpg" alt="">
+                            <img src="assets/Ed-Yacopino.jpg" alt="">
                         </div>
-                        <h2>Chris Farre</h2>
+                        <h2>Ed Yacopino</h2>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure fugit tenetur sit impedit quasi minima rem, dolores asperiores, laborum quod nihil dolorem atque maiores quo at animi!</p>
                     </div>
                 </div>
                 <div class="slider-single">
                     <div class="card">
                         <div class="card-img">
-                            <img src="assets/player1.jpg" alt="">
+                            <img src="assets/Marc-Truit.jpg" alt="">
                         </div>
-                        <h2>Brad Pennington</h2>
+                        <h2>Marc Truit</h2>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure fugit tenetur sit impedit quasi minima rem, dolores asperiores, laborum quod nihil dolorem atque maiores quo at animi!</p>
                     </div>
                 </div>
                 <div class="slider-single">
                     <div class="card">
                         <div class="card-img">
-                            <img src="assets/player2.jpg" alt="">
+                            <img src="assets/Luke-Kelley.jpg" alt="">
                         </div>
-                        <h2>Ed Yacopin</h2>
+                        <h2>Luke Kelley</h2>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure fugit tenetur sit impedit quasi minima rem, dolores asperiores, laborum quod nihil dolorem atque maiores quo at animi!</p>
                     </div>
                 </div>
+                <div class="slider-single">
+                    <div class="card">
+                        <div class="card-img">
+                            <img src="assets/James-Hetfield.jpg" alt="">
+                        </div>
+                        <h2>James Hetfield</h2>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure fugit tenetur sit impedit quasi minima rem, dolores asperiores, laborum quod nihil dolorem atque maiores quo at animi!</p>
+                    </div>
+                </div>                
             </div>
         </div>
         <div class="apps">
