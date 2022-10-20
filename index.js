@@ -13,7 +13,7 @@ slider.addEventListener("touchstart", function (e) {
 })
 slider.addEventListener('touchend', function (e) {
     deltaX = e.changedTouches[0].clientX - clientX
-    if (deltaX < 0 && slideChange < 222 * players.length) {
+    if (deltaX < 0 && slideChange < 222 * (players.length-1)) {
         slideChange = slideChange + 222
     }
     else if (deltaX > 0 && slideChange > 0) {
